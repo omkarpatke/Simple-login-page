@@ -33,6 +33,10 @@ h1{
 }
 .fas{
     position: absolute;
+    margin-top: 0rem;
+}
+.fa{
+    position: absolute;
 }
 input{
     width: 90%;
@@ -109,7 +113,7 @@ input:focus{
     
     .box{
         width: 100%;
-        
+
     }
 }
 
